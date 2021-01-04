@@ -59,15 +59,9 @@ ul {
     top: 80px;
     left: 625px;
     width: 550px;
-    height: 500px;
+    height: auto;
     background-color: #fff;
     text-align: left;
-}
-
-.titulo1 {
-    font-size: 20px;
-    padding: 25px 0 0 20px;
-    color: #035d7e;
 }
 
 .centro p {
@@ -77,10 +71,29 @@ ul {
     color: black;
 }
 
-.linha2 {
+.centro .linha2 {
     width: 510px;
     margin-left: 20px;
     border: 1px double #035d7e;
+}
+
+.centro_titulo1 {
+    font-size: 19px;
+    padding: 25px 0 0 20px;
+    color: #035d7e;
+}
+
+.centro .lugar {
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+    margin-top: -10px;
+    
+}
+
+.centro .data {
+    margin-top: -25px;
+    font-size: 14px;
 }
 
 
