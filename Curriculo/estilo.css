@@ -17,6 +17,7 @@ body {
 .resumo {
     background: rgb(26, 25, 25);
     width: 225px;
+    height: 2062px;
     margin-left: 400px;
     margin-top: 80px;
     margin-bottom: 30px;
@@ -97,3 +98,7 @@ ul {
 }
 
 
+.historico .ensino {
+    font-weight: 600;
+    font-size: 14px;
+}
